@@ -8,8 +8,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/cihan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/cihan_dev?logo=twitter&style=for-the-badge" alt="cihan_dev" /></a> </p>
+<p align="left"> <a href="https://medium.com/@cihannakgul" target="blank"><img src="https://img.shields.io/linkedin/follow/cihan_dev?logo=twitter&style=for-the-badge" alt="cihannakgul" /></a> </p>
 
-- 🔭 I work at **Beymen**
+- 🔭 I'm working at **Beymen**
 
 - 👨‍💻 All of my projects are available at [cihanakgul.com](https://www.cihanakgul.com)
 
