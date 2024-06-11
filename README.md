@@ -11,6 +11,7 @@
 
 
 <p align="left"> <a href="https://medium.com/@cihannakgul" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?color=0e75b6&style=flat&logo=medium&logoColor=white" alt="cihan_dev" /></a> </p>
+
 - 🔭 I'm working at **Beymen**
 
 - 👨‍💻 All of my projects are available at [cihanakgul.com](https://www.cihanakgul.com)
