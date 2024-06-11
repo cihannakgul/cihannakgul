@@ -11,7 +11,7 @@
 
 - 🔭 I work at **Beymen**
 
-- 👨‍💻 All of my projects are available at [cihanakgul.com](cihanakgul.com)
+- 👨‍💻 All of my projects are available at [cihanakgul.com](https://www.cihanakgul.com)
 
 - 📝 I regularly write articles on [https://medium.com/@cihannakgul](https://medium.com/@cihannakgul)
 
