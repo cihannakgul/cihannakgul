@@ -1,6 +1,6 @@
 [![MasterHead](https://www.appcul.com/assets/img/services/service-details-thumbnail-3.1.png)](https://www.cihanakgul.com)
 <h1 align="center">Hi 👋, I'm Cihan Akgul</h1>
-<h3 align="center">an iOS developer</h3>
+<h3 align="center">iOS Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihannakgul&label=Profile%20views&color=0e75b6&style=flat" alt="cihannakgul" /> </p>
